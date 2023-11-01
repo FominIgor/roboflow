@@ -23,10 +23,10 @@ $(function () {
             });
         });
 
-    var publishable_key = "KrTnUHrwjesQrzgZ7Md4";
+    var publishable_key = "6PVuFYva42GrNxS7gFqx";
     var toLoad = {
-        model: "zavod-slx9d",
-        version: 1
+        model: "hard-hat-sample-ngsfy",
+        version: 2
     };
 
     const loadModelPromise = new Promise(function (resolve, reject) {
