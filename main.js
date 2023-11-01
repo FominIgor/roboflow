@@ -23,7 +23,7 @@ $(function () {
             });
         });
 
-    var publishable_key = "KrTnUHrwjesQrgZ7Md4";
+    var publishable_key = "KrTnUHrwjesQrzgZ7Md4";
     var toLoad = {
         model: "zavod-slx9d",
         version: 1
